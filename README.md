@@ -1,2 +1,6 @@
-# LogicaComputacao
-Disciplina focada em aprimorar os ensinamentos de raciocínio lógico adquiridos em Matemática Discreta. De uma maneira mais aprofundada, praticamos intensamente o desenvolvimento de um cálculo lógico.
+# Lógica para Computação
+
+-  Professor: Silvia Moraes
+-  Código: 4611E-04
+-  Semestre: 2022/2
+-  Nota: 9.4
